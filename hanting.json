@@ -60,7 +60,7 @@
 		{
 			"techniqueID": "T1043",
 			"tactic": "command-and-control",
-			"color": "#a1d99b",
+			"color": "#fcf3a2",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -140,7 +140,7 @@
 		{
 			"techniqueID": "T1190",
 			"tactic": "initial-access",
-			"color": "#a1d99b",
+			"color": "#fcf3a2",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
